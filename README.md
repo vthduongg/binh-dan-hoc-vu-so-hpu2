@@ -85,3 +85,7 @@ Học liệu mẫu được rà soát ngày 24/09/2026 và dẫn nguồn chính 
 - `database/paths.json`: 6 lộ trình, 6 miền năng lực và câu hỏi đánh giá đầu vào.
 - `PERFORMANCE.md`, `tests/load.js`: hướng dẫn vận hành và kịch bản đo tải k6.
 - `assets/`: giao diện responsive và JavaScript.
+
+## Kiểm thử
+
+Chạy toàn bộ test (cần bật MySQL trong XAMPP): `C:\xampp\php\php.exe tests\run.php`. Chi tiết và quy trình nhánh/Pull Request xem AGENTS.md.
