@@ -14,7 +14,7 @@ export const options = {
   },
 };
 
-const base = __ENV.BASE_URL || 'http://localhost/hpu2-xampp';
+const base = __ENV.BASE_URL || 'http://localhost/binh-dan-hoc-vu-so';
 
 export default function () {
   const home = http.get(`${base}/index.php`);
