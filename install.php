@@ -12,15 +12,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $c = cfg('db');
         $name = preg_replace('/[^a-zA-Z0-9_]/', '', $c['name']);
         if (!$name) throw new RuntimeException('Tên cơ sở dữ liệu không hợp lệ trong config.php.');
-        db(true)->exec("CREATE DATABASE IF NOT EXISTS `{$name}` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci");
-        $schema = file_get_contents(__DIR__ . '/database/schema.sql');
-        db()->exec($schema);
+        // Kiểm tra dữ liệu nhập TRƯỚC khi tạo CSDL/bảng: nếu không, một lần nhập sai sẽ để lại
+        // bảng users rỗng, installed() trả về true và không thể cài đặt lại.
         $email = mb_strtolower(trim((string)($_POST['email'] ?? '')));
         $nameAdmin = trim((string)($_POST['full_name'] ?? ''));
         $password = (string)($_POST['password'] ?? '');
         if (!filter_var($email, FILTER_VALIDATE_EMAIL)) throw new RuntimeException('Email quản trị không hợp lệ.');
         if (mb_strlen($nameAdmin) < 2) throw new RuntimeException('Vui lòng nhập họ tên quản trị.');
         if (strlen($password) < 12) throw new RuntimeException('Mật khẩu quản trị phải có ít nhất 12 ký tự.');
+        db(true)->exec("CREATE DATABASE IF NOT EXISTS `{$name}` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci");
+        $schema = file_get_contents(__DIR__ . '/database/schema.sql');
+        db()->exec($schema);
         $st = db()->prepare('INSERT INTO users(email,password_hash,full_name,role,status) VALUES(?,?,?,?,"active") ON DUPLICATE KEY UPDATE password_hash=VALUES(password_hash), full_name=VALUES(full_name), role="admin", status="active"');
         $st->execute([$email, password_hash($password, PASSWORD_DEFAULT), $nameAdmin, 'admin']);
 
