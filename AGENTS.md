@@ -3,6 +3,16 @@ Bắt buộc phải tuân thủ 2 quy định:
 - Sau mỗi lần thay đổi đều phải tạo 1 commit git tương ứng, để sau này còn theo dõi và khôi phục
 - Sau mỗi lần thay đổi đều phải viết hoặc cập nhật các bài test liên quan và trước khi giao cho người dùng phải đảm bảo tất cả các bài test và nghiệm thu đều đạt
 
+## Quy trình nhánh (branch)
+
+Nhánh `main` luôn phải ở trạng thái chạy được và đã qua test. Không push trực tiếp lên `main`.
+
+1. Cập nhật `main`, rồi tạo nhánh riêng cho mỗi thay đổi: `git switch main`, `git pull`, `git switch -c feature/ten-tinh-nang` (hoặc `fix/ten-loi`, `docs/ten-tai-lieu`).
+2. Làm việc, commit và chạy test ngay trên nhánh đó (xem mục "Cách chạy test").
+3. Đẩy nhánh lên GitHub: `git push -u origin feature/ten-tinh-nang`.
+4. Mở Pull Request vào `main`, mô tả ngắn thay đổi và kết quả test. Chỉ gộp (merge) khi test đạt và đã có người xem lại.
+5. Sau khi gộp, xóa nhánh và cập nhật lại `main` trên máy: `git switch main`, `git pull`.
+
 ## Cách chạy test
 
 Chạy trong thư mục dự án (`hpu2-xampp`), dùng PHP của XAMPP, không cần cài thêm thư viện:
