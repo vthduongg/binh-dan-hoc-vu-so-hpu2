@@ -7,7 +7,7 @@ return [
     'db' => [
         'host' => '127.0.0.1',
         'port' => '3306',
-        'name' => 'hpu2_digital_learning',
+        'name' => getenv('HPU2_DB_NAME') ?: 'hpu2_digital_learning',
         // XAMPP cục bộ có thể dùng root; khi đưa lên host BẮT BUỘC dùng user riêng.
         'user' => getenv('HPU2_DB_USER') ?: 'root',
         'pass' => getenv('HPU2_DB_PASS') ?: '',
