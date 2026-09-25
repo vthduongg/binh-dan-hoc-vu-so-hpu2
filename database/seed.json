@@ -1,0 +1,1007 @@
+[
+  {
+    "id": "digital-foundation",
+    "title": "Nhập môn công dân số HPU2",
+    "summary": "Hiểu đúng chuyển đổi số, năng lực số và trách nhiệm của mỗi thành viên trong môi trường đại học.",
+    "duration": 20,
+    "level": "Cơ bản",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "skills",
+    "tone": "blue",
+    "icon": "grid",
+    "label": "Bài mở đầu",
+    "outcomes": [
+      "Phân biệt số hoá, ứng dụng CNTT và chuyển đổi số",
+      "Tự đánh giá thói quen số của bản thân",
+      "Chọn đúng công cụ và chịu trách nhiệm với hành vi số"
+    ],
+    "modules": [
+      {
+        "title": "Chuyển đổi số không chỉ là mua phần mềm",
+        "duration": 5,
+        "objective": "Nhận biết chuyển đổi số là thay đổi cách làm dựa trên dữ liệu và công nghệ.",
+        "points": [
+          "Số hoá biến tài liệu giấy thành dữ liệu số; ứng dụng CNTT hỗ trợ một khâu; chuyển đổi số thiết kế lại toàn bộ quy trình.",
+          "Một quy trình tốt phải rõ người chịu trách nhiệm, dữ liệu đầu vào, thời hạn và kết quả đầu ra.",
+          "Không đưa nguyên quy trình giấy rườm rà lên phần mềm; cần bỏ bước thừa trước khi số hoá."
+        ],
+        "scenario": "Một đơn vị yêu cầu vừa nộp biểu mẫu trực tuyến, vừa in bản giấy có cùng nội dung. Đây mới là số hoá hình thức, chưa tạo ra quy trình số thống nhất.",
+        "practice": "Chọn một thủ tục anh/chị thường làm; ghi ra ba bước có thể bỏ, gộp hoặc tự động hoá."
+      },
+      {
+        "title": "Năng lực số cần thiết trong đại học",
+        "duration": 5,
+        "objective": "Xác định các năng lực số gắn với học tập, giảng dạy và quản trị.",
+        "points": [
+          "Tìm kiếm và đánh giá thông tin; giao tiếp, cộng tác; tạo nội dung số; an toàn; giải quyết vấn đề; sử dụng công nghệ mới.",
+          "Biết dùng công cụ chưa đủ: phải hiểu dữ liệu, kiểm chứng kết quả và ứng xử có trách nhiệm.",
+          "Năng lực số được hình thành qua nhiệm vụ thực tế, không chỉ qua một bài kiểm tra lý thuyết."
+        ],
+        "scenario": "Sinh viên tìm được tài liệu trên mạng nhưng không kiểm tra tác giả, năm công bố và nguồn gốc; kết quả nhanh nhưng chất lượng học thuật thấp.",
+        "practice": "Tự chấm mình theo thang 1–4 ở ba năng lực: tìm kiếm thông tin, bảo vệ tài khoản, cộng tác trên tài liệu dùng chung."
+      },
+      {
+        "title": "Dấu chân số và văn hoá số",
+        "duration": 5,
+        "objective": "Hiểu tác động lâu dài của nội dung đăng tải và trao đổi trên môi trường số.",
+        "points": [
+          "Bài đăng, bình luận, ảnh chụp màn hình có thể tồn tại lâu hơn dự kiến.",
+          "Tôn trọng người học, đồng nghiệp; không phát tán thông tin chưa kiểm chứng hoặc dữ liệu nội bộ.",
+          "Trước khi đăng: đúng sự thật, đúng thẩm quyền, đúng đối tượng và thật sự cần thiết."
+        ],
+        "scenario": "Một ảnh chụp danh sách sinh viên có số điện thoại được gửi vào nhóm đông người để nhắc lịch. Việc thuận tiện trước mắt tạo rủi ro lộ dữ liệu.",
+        "practice": "Áp dụng quy tắc 4Đ cho một nội dung định chia sẻ: đúng – đủ – được phép – đúng kênh."
+      },
+      {
+        "title": "Quy tắc chọn công cụ số",
+        "duration": 5,
+        "objective": "Biết đánh giá công cụ trước khi đưa vào công việc của Nhà trường.",
+        "points": [
+          "Ưu tiên hệ thống chính thức của HPU2; không tự đưa dữ liệu công việc lên dịch vụ chưa được phê duyệt.",
+          "Đánh giá tối thiểu: mục đích, loại dữ liệu, quyền truy cập, nơi lưu trữ, khả năng xuất dữ liệu và chi phí duy trì.",
+          "Công cụ miễn phí có thể đánh đổi bằng quảng cáo, khai thác dữ liệu hoặc khó bàn giao khi người phụ trách thay đổi."
+        ],
+        "scenario": "Một tổ công tác dùng tài khoản cá nhân để tạo biểu mẫu thu thông tin viên chức. Khi người tạo nghỉ việc, đơn vị không còn quyền quản trị dữ liệu.",
+        "practice": "Lập bảng kiểm 6 tiêu chí trên trước khi đề xuất một ứng dụng mới cho đơn vị."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kế hoạch phong trào Bình dân học vụ số",
+        "url": "https://xaydungchinhsach.chinhphu.vn/binh-dan-hoc-vu-so-xay-dung-cac-quy-dinh-huong-dan-chuong-trinh-pho-cap-ky-nang-so-119250501094616376.htm"
+      },
+      {
+        "title": "Thông tư 02/2025/TT-BGDĐT – Khung năng lực số",
+        "url": "https://moet.gov.vn/tintuc/Pages/tin-tong-hop.aspx?ItemID=10269"
+      },
+      {
+        "title": "Quyết định 131/QĐ-TTg – Chuyển đổi số GDĐT",
+        "url": "https://vanban.chinhphu.vn/default.aspx?docid=205236&pageid=27160"
+      }
+    ]
+  },
+  {
+    "id": "account-safety",
+    "title": "An toàn tài khoản và mật khẩu",
+    "summary": "Tạo mật khẩu mạnh, bật xác thực hai lớp và xử lý khi tài khoản có dấu hiệu bất thường.",
+    "duration": 20,
+    "level": "Cơ bản",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "safety",
+    "tone": "blue",
+    "icon": "shield",
+    "label": "Mọi thành viên",
+    "outcomes": [
+      "Tạo mật khẩu khác nhau cho từng dịch vụ",
+      "Bật xác thực nhiều lớp",
+      "Xử lý đúng khi nghi tài khoản bị chiếm quyền"
+    ],
+    "modules": [
+      {
+        "title": "Mật khẩu dài, riêng và dễ quản lý",
+        "duration": 5,
+        "objective": "Tạo mật khẩu chống dò đoán mà không phải ghi ra nơi công khai.",
+        "points": [
+          "Ưu tiên cụm mật khẩu dài; không dùng tên, ngày sinh, số điện thoại hoặc mẫu bàn phím.",
+          "Mỗi tài khoản quan trọng phải có mật khẩu riêng để một vụ lộ không kéo theo nhiều hệ thống.",
+          "Dùng trình quản lý mật khẩu đáng tin cậy; chỉ cần nhớ mật khẩu chính thật mạnh."
+        ],
+        "scenario": "Mật khẩu email HPU2 trùng với mật khẩu một diễn đàn đã bị rò rỉ. Kẻ xấu dùng lại thông tin đó để thử đăng nhập email công vụ.",
+        "practice": "Đổi ngay một mật khẩu đang dùng lặp lại; không gửi mật khẩu mới cho bất kỳ ai."
+      },
+      {
+        "title": "Xác thực hai lớp và mã khôi phục",
+        "duration": 5,
+        "objective": "Thiết lập lớp bảo vệ thứ hai và chuẩn bị phương án mất thiết bị.",
+        "points": [
+          "Ưu tiên ứng dụng xác thực hoặc khoá bảo mật; SMS vẫn tốt hơn chỉ có mật khẩu nhưng phụ thuộc số điện thoại.",
+          "Mã OTP là bí mật dùng một lần; bộ phận kỹ thuật không bao giờ cần hỏi mã này.",
+          "Lưu mã khôi phục ở vị trí an toàn, tách khỏi thiết bị dùng đăng nhập."
+        ],
+        "scenario": "Người tự xưng hỗ trợ kỹ thuật gọi điện xin mã OTP để 'đồng bộ tài khoản'. Đây là hành vi chiếm quyền đăng nhập.",
+        "practice": "Kiểm tra tài khoản email chính đã bật xác thực hai lớp và có phương án khôi phục hay chưa."
+      },
+      {
+        "title": "Thiết bị và phiên đăng nhập",
+        "duration": 5,
+        "objective": "Kiểm soát thiết bị đang truy cập tài khoản.",
+        "points": [
+          "Khoá màn hình, cập nhật hệ điều hành và trình duyệt; không lưu mật khẩu trên máy dùng chung.",
+          "Định kỳ xem danh sách thiết bị, vị trí và phiên đăng nhập; đăng xuất phiên lạ.",
+          "Khi dùng máy lạ, không chọn ghi nhớ đăng nhập và phải đăng xuất hoàn toàn."
+        ],
+        "scenario": "Giảng viên đăng nhập hệ thống trên máy phòng học rồi chỉ đóng trình duyệt. Người dùng sau có thể mở lại phiên còn hiệu lực.",
+        "practice": "Mở trang quản lý bảo mật của tài khoản, thu hồi một thiết bị cũ không còn sử dụng."
+      },
+      {
+        "title": "Ứng cứu khi tài khoản có dấu hiệu bất thường",
+        "duration": 5,
+        "objective": "Thực hiện đúng thứ tự để giới hạn thiệt hại.",
+        "points": [
+          "Dùng thiết bị tin cậy để đổi mật khẩu, thu hồi phiên đăng nhập và kiểm tra thông tin khôi phục.",
+          "Báo ngay bộ phận phụ trách; nêu thời điểm, dấu hiệu, thiết bị và hành động đã thực hiện.",
+          "Kiểm tra thư đã gửi, quy tắc chuyển tiếp, tệp chia sẻ và các tài khoản dùng chung mật khẩu cũ."
+        ],
+        "scenario": "Email tự gửi thư có liên kết lạ cho đồng nghiệp. Chỉ đổi mật khẩu là chưa đủ nếu quy tắc chuyển tiếp độc hại vẫn còn.",
+        "practice": "Ghi lại số điện thoại/email hỗ trợ chính thức của đơn vị để dùng khi có sự cố."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kế hoạch phong trào Bình dân học vụ số",
+        "url": "https://xaydungchinhsach.chinhphu.vn/binh-dan-hoc-vu-so-xay-dung-cac-quy-dinh-huong-dan-chuong-trinh-pho-cap-ky-nang-so-119250501094616376.htm"
+      }
+    ]
+  },
+  {
+    "id": "anti-scam",
+    "title": "Nhận diện lừa đảo trực tuyến",
+    "summary": "Phân biệt email giả mạo, đường dẫn nguy hiểm, mã QR đáng ngờ và yêu cầu chuyển tiền khẩn cấp.",
+    "duration": 18,
+    "level": "Cơ bản",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "safety",
+    "tone": "red",
+    "icon": "mail",
+    "label": "Mọi thành viên",
+    "outcomes": [
+      "Nhận ra tín hiệu thao túng tâm lý",
+      "Kiểm tra liên kết và người gửi",
+      "Báo cáo sự cố mà không làm mất bằng chứng"
+    ],
+    "modules": [
+      {
+        "title": "Lừa đảo đánh vào tâm lý nào?",
+        "duration": 4,
+        "objective": "Nhận diện các thủ thuật thúc ép trước khi xem xét nội dung kỹ thuật.",
+        "points": [
+          "Khẩn cấp: khoá tài khoản, hết hạn học phí, cần chuyển tiền ngay.",
+          "Uy quyền: giả danh lãnh đạo, phòng chức năng, ngân hàng hoặc cơ quan công an.",
+          "Lợi ích và sợ hãi: học bổng, quà tặng, hoàn tiền, phạt vi phạm."
+        ],
+        "scenario": "Tin nhắn dùng ảnh đại diện của lãnh đạo yêu cầu mua thẻ quà tặng và giữ bí mật. Tính khẩn cấp và bí mật là dấu hiệu cảnh báo mạnh.",
+        "practice": "Khi nhận yêu cầu bất thường, dừng 10 giây và xác minh bằng một kênh liên lạc khác đã biết từ trước."
+      },
+      {
+        "title": "Kiểm tra người gửi và đường dẫn",
+        "duration": 5,
+        "objective": "Phân biệt tên hiển thị với địa chỉ thật và tên miền thật.",
+        "points": [
+          "Mở đầy đủ địa chỉ email; tên hiển thị có thể bị giả mạo.",
+          "Đọc tên miền từ phải sang trái; hpu2.edu.vn khác hpu2-edu.vn hoặc hpu2.edu.vn.example.com.",
+          "Không đăng nhập từ liên kết nhận qua tin nhắn; tự gõ địa chỉ cổng chính thức hoặc dùng dấu trang."
+        ],
+        "scenario": "Email có tiêu đề 'Nâng cấp hộp thư HPU2' nhưng nút đăng nhập dẫn sang một tên miền lạ gần giống tên trường.",
+        "practice": "Nhấn giữ một liên kết trên điện thoại để xem địa chỉ đích mà chưa mở trang."
+      },
+      {
+        "title": "Mã QR, tệp đính kèm và ứng dụng giả",
+        "duration": 4,
+        "objective": "Kiểm tra các hình thức lừa đảo không hiển thị liên kết trực tiếp.",
+        "points": [
+          "QR chỉ là cách mã hoá liên kết; không mặc nhiên an toàn vì được in trên giấy.",
+          "Không mở tệp yêu cầu bật macro hoặc cài ứng dụng ngoài kho chính thức.",
+          "Kiểm tra lại người gửi nếu tệp hoặc QR không phù hợp với ngữ cảnh công việc."
+        ],
+        "scenario": "Một mã QR dán đè lên thông báo học phí dẫn tới trang yêu cầu nhập tài khoản ngân hàng.",
+        "practice": "Quét thử QR bằng ứng dụng có hiển thị trước địa chỉ; huỷ nếu tên miền không đúng."
+      },
+      {
+        "title": "Báo cáo và giữ bằng chứng",
+        "duration": 5,
+        "objective": "Giúp bộ phận kỹ thuật xử lý nhanh mà không phát tán nguy cơ.",
+        "points": [
+          "Chụp màn hình, ghi thời điểm, địa chỉ người gửi, liên kết và thao tác đã thực hiện.",
+          "Không chuyển tiếp trực tiếp thư độc hại cho nhiều người; dùng chức năng báo cáo hoặc gửi ảnh chụp theo kênh hỗ trợ.",
+          "Nếu đã nhập mật khẩu hoặc cài tệp, ngắt kết nối khi cần và báo ngay, không chờ xem có hậu quả hay không."
+        ],
+        "scenario": "Sinh viên đã nhập mật khẩu vào trang giả nhưng ngại báo vì chưa thấy mất tài khoản. Thời gian chậm trễ làm tăng rủi ro.",
+        "practice": "Soạn sẵn mẫu báo sự cố gồm: ai – lúc nào – thiết bị nào – đã bấm/nhập gì – bằng chứng kèm theo."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kế hoạch phong trào Bình dân học vụ số",
+        "url": "https://xaydungchinhsach.chinhphu.vn/binh-dan-hoc-vu-so-xay-dung-cac-quy-dinh-huong-dan-chuong-trinh-pho-cap-ky-nang-so-119250501094616376.htm"
+      }
+    ]
+  },
+  {
+    "id": "hpu2-services",
+    "title": "Sử dụng dịch vụ số HPU2 hiệu quả",
+    "summary": "Thao tác đúng trên cổng thông tin, quản lý đào tạo và không gian học trực tuyến của Nhà trường.",
+    "duration": 24,
+    "level": "Cơ bản",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "services",
+    "tone": "teal",
+    "icon": "monitor",
+    "label": "Riêng HPU2",
+    "outcomes": [
+      "Chọn đúng hệ thống cho từng nhu cầu",
+      "Bảo vệ tài khoản dùng chung",
+      "Gửi yêu cầu hỗ trợ có đủ thông tin"
+    ],
+    "modules": [
+      {
+        "title": "Bản đồ hệ thống số HPU2",
+        "duration": 6,
+        "objective": "Biết chức năng chính của từng cổng và tránh nhập dữ liệu sai nơi.",
+        "points": [
+          "hpu2.edu.vn: thông tin chính thức; qldt.hpu2.edu.vn: nghiệp vụ đào tạo; hoctructuyen.hpu2.edu.vn: học tập trực tuyến; cic.hpu2.edu.vn: dịch vụ của Trung tâm Tin học.",
+          "Luôn kiểm tra đúng tên miền trước khi đăng nhập.",
+          "Thông báo trên mạng xã hội chỉ có giá trị tham khảo; cần đối chiếu cổng chính thức khi liên quan quyền lợi hoặc thời hạn."
+        ],
+        "scenario": "Sinh viên làm theo lịch truyền trong nhóm chat nhưng lịch chính thức trên cổng đào tạo đã thay đổi.",
+        "practice": "Tạo dấu trang cho bốn địa chỉ chính thức và xoá các dấu trang trùng hoặc sai tên miền."
+      },
+      {
+        "title": "Tài khoản, vai trò và dữ liệu",
+        "duration": 6,
+        "objective": "Sử dụng đúng tài khoản cá nhân và quyền được giao.",
+        "points": [
+          "Không dùng chung tài khoản cá nhân; tài khoản dùng chung phải có chủ sở hữu và quy trình bàn giao.",
+          "Chỉ truy cập dữ liệu phục vụ nhiệm vụ được phân công; không tải toàn bộ danh sách khi chỉ cần một phần.",
+          "Đăng xuất khỏi máy dùng chung và báo khi quyền truy cập không còn phù hợp."
+        ],
+        "scenario": "Một cán bộ chuyển vị trí nhưng vẫn giữ quyền xem dữ liệu của đơn vị cũ. Quyền cần được rà soát và thu hồi kịp thời.",
+        "practice": "Liệt kê các hệ thống đang dùng và đánh dấu quyền nào không còn cần thiết để đề nghị điều chỉnh."
+      },
+      {
+        "title": "Học trực tuyến có tổ chức",
+        "duration": 6,
+        "objective": "Quản lý học liệu, hoạt động và tiến độ trên Moodle hiệu quả.",
+        "points": [
+          "Tổ chức khóa học theo tuần/chủ đề, đặt tên nhất quán và nêu rõ yêu cầu hoàn thành.",
+          "Video dung lượng lớn nên dùng hạ tầng lưu trữ phù hợp; tránh tải nhiều bản trùng lặp.",
+          "Không công khai điểm, nhận xét cá nhân hoặc danh sách sinh viên ngoài phạm vi lớp học."
+        ],
+        "scenario": "Một môn học được nhân bản qua nhiều học kỳ nhưng file cũ, liên kết hỏng và dữ liệu người học chưa được rà soát.",
+        "practice": "Kiểm tra một khóa học: tên học kỳ, liên kết, thời hạn, quyền truy cập và nội dung đã hết hiệu lực."
+      },
+      {
+        "title": "Gửi yêu cầu hỗ trợ đúng cách",
+        "duration": 6,
+        "objective": "Cung cấp đủ thông tin để rút ngắn thời gian xử lý sự cố.",
+        "points": [
+          "Nêu hệ thống, tài khoản, thời điểm, thiết bị, mạng đang dùng và thao tác gây lỗi.",
+          "Chụp toàn màn hình có thông báo lỗi nhưng che mật khẩu, OTP và dữ liệu nhạy cảm.",
+          "Một yêu cầu nên mô tả một vấn đề, có mức độ ảnh hưởng và người liên hệ."
+        ],
+        "scenario": "Thông báo 'không vào được' không cho biết địa chỉ trang, thời điểm hay ảnh lỗi nên bộ phận kỹ thuật phải hỏi lại nhiều lần.",
+        "practice": "Viết lại yêu cầu theo mẫu: Tôi đang… / Tại… / Lúc… / Lỗi hiển thị… / Đã thử… / Ảnh kèm theo…"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Quyết định 131/QĐ-TTg – Chuyển đổi số GDĐT",
+        "url": "https://vanban.chinhphu.vn/default.aspx?docid=205236&pageid=27160"
+      },
+      {
+        "title": "Cổng thông tin HPU2",
+        "url": "https://hpu2.edu.vn"
+      }
+    ]
+  },
+  {
+    "id": "responsible-ai",
+    "title": "AI có trách nhiệm trong dạy và học",
+    "summary": "Dùng AI để hỗ trợ tư duy, kiểm chứng kết quả và minh bạch trong học tập, giảng dạy.",
+    "duration": 28,
+    "level": "Nền tảng",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "ai",
+    "tone": "purple",
+    "icon": "ai",
+    "label": "Giảng dạy & học tập",
+    "outcomes": [
+      "Viết yêu cầu có ngữ cảnh và tiêu chí",
+      "Kiểm chứng đầu ra AI",
+      "Không đưa dữ liệu nhạy cảm vào công cụ AI công cộng",
+      "Khai báo cách dùng AI phù hợp"
+    ],
+    "modules": [
+      {
+        "title": "AI tạo sinh làm được gì và sai ở đâu?",
+        "duration": 7,
+        "objective": "Sử dụng AI như trợ lý xác suất, không coi là nguồn sự thật.",
+        "points": [
+          "AI tốt ở gợi ý cấu trúc, diễn đạt, tạo ví dụ, tóm tắt và hỗ trợ khám phá ý tưởng.",
+          "AI có thể bịa nguồn, nhầm số liệu, lỗi lập luận và phản ánh thiên lệch của dữ liệu huấn luyện.",
+          "Người dùng chịu trách nhiệm cuối cùng về nội dung sử dụng trong dạy, học và quản lý."
+        ],
+        "scenario": "AI tạo một danh mục tài liệu tham khảo có tiêu đề rất thuyết phục nhưng một số bài báo không tồn tại.",
+        "practice": "Yêu cầu AI nêu phần chưa chắc chắn, sau đó kiểm tra hai thông tin bằng nguồn độc lập."
+      },
+      {
+        "title": "Công thức yêu cầu 5 thành phần",
+        "duration": 7,
+        "objective": "Tạo yêu cầu rõ ràng để nhận kết quả có thể kiểm tra.",
+        "points": [
+          "Vai trò: AI đang hỗ trợ ai; nhiệm vụ: cần làm gì; ngữ cảnh: dùng trong tình huống nào.",
+          "Dữ liệu đầu vào: tài liệu được phép sử dụng; tiêu chí đầu ra: độ dài, cấu trúc, đối tượng, giới hạn.",
+          "Yêu cầu AI chỉ ra giả định, điểm chưa rõ và không tự tạo dữ kiện còn thiếu."
+        ],
+        "scenario": "Câu lệnh 'soạn bài giảng chuyển đổi số' quá rộng. Khi bổ sung đối tượng sinh viên sư phạm, 15 phút, ba tình huống HPU2 và tiêu chí kiểm chứng, kết quả hữu ích hơn.",
+        "practice": "Viết lại một yêu cầu đang dùng theo đủ 5 thành phần và so sánh hai kết quả."
+      },
+      {
+        "title": "Kiểm chứng và bảo vệ dữ liệu",
+        "duration": 7,
+        "objective": "Thực hiện kiểm tra tối thiểu trước khi dùng đầu ra AI.",
+        "points": [
+          "Không nhập dữ liệu cá nhân, đề thi chưa công bố, hồ sơ nội bộ, mật khẩu hoặc tài liệu hạn chế vào AI công cộng.",
+          "Kiểm tra tên văn bản, ngày hiệu lực, số liệu, trích dẫn và phép tính bằng nguồn gốc.",
+          "Phân biệt nội dung do AI gợi ý với quyết định chuyên môn của giảng viên, cán bộ hoặc hội đồng."
+        ],
+        "scenario": "Cán bộ dán nguyên bảng điểm có họ tên và mã sinh viên vào chatbot để nhờ phân tích. Đây là cách làm không phù hợp vì lộ dữ liệu cá nhân.",
+        "practice": "Tạo một bản dữ liệu giả hoặc đã ẩn danh trước khi thử nghiệm phân tích bằng AI."
+      },
+      {
+        "title": "Minh bạch và liêm chính học thuật",
+        "duration": 7,
+        "objective": "Dùng AI có khai báo, đúng giới hạn của nhiệm vụ học tập.",
+        "points": [
+          "Giảng viên cần nêu rõ phần nào được dùng AI, phần nào cấm và tiêu chí đánh giá quá trình.",
+          "Người học ghi lại công cụ, mục đích, cách kiểm chứng và phần đã chỉnh sửa khi được yêu cầu.",
+          "Không giao toàn bộ việc tư duy cho AI; sản phẩm phải thể hiện hiểu biết và trách nhiệm cá nhân."
+        ],
+        "scenario": "Hai sinh viên cùng nộp bài trôi chảy nhưng không giải thích được lập luận. Đánh giá cần bổ sung vấn đáp, bản nháp hoặc nhật ký quá trình.",
+        "practice": "Viết tuyên bố 3 câu về việc sử dụng AI cho một bài tập: dùng công cụ gì, để làm gì, đã kiểm chứng ra sao."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bộ GDĐT: ứng dụng AI trong giáo dục",
+        "url": "https://moet.gov.vn/chuyen-de-giao-duc-va-dao-tao/chuyen-doi-so-trong-gddt/day-manh-ung-dung-tri-tue-nhan-tao-trong-giao-duc-loi-ich-va-thach-thuc.html"
+      },
+      {
+        "title": "Thông tư 02/2025/TT-BGDĐT – Khung năng lực số",
+        "url": "https://moet.gov.vn/tintuc/Pages/tin-tong-hop.aspx?ItemID=10269"
+      },
+      {
+        "title": "Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15",
+        "url": "https://vanban.chinhphu.vn/?classid=1&docid=214590&pageid=27160&typegroup="
+      },
+      {
+        "title": "Nghị định 356/2025/NĐ-CP hướng dẫn Luật Bảo vệ dữ liệu cá nhân",
+        "url": "https://vanban.chinhphu.vn/?docid=216387&pageid=27160"
+      }
+    ]
+  },
+  {
+    "id": "personal-data",
+    "title": "Bảo vệ dữ liệu cá nhân trong Nhà trường",
+    "summary": "Thu thập tối thiểu, dùng đúng mục đích, phân quyền và xử lý sự cố dữ liệu theo Luật hiện hành.",
+    "duration": 24,
+    "level": "Bắt buộc",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "data",
+    "tone": "gold",
+    "icon": "lock",
+    "label": "Luật hiệu lực 2026",
+    "outcomes": [
+      "Nhận diện dữ liệu cá nhân",
+      "Giảm thu thập và chia sẻ không cần thiết",
+      "Biết báo cáo sự cố dữ liệu"
+    ],
+    "modules": [
+      {
+        "title": "Nhận diện dữ liệu cá nhân",
+        "duration": 6,
+        "objective": "Phân biệt dữ liệu thông thường, dữ liệu nhạy cảm và dữ liệu nội bộ.",
+        "points": [
+          "Họ tên, ngày sinh, mã sinh viên, số điện thoại, hình ảnh, vị trí, tài khoản và kết quả học tập đều có thể gắn với một người.",
+          "Một dữ liệu riêng lẻ tưởng vô hại có thể trở thành dữ liệu cá nhân khi kết hợp với dữ liệu khác.",
+          "Dữ liệu học tập, sức khoẻ, tài chính hoặc sinh trắc học cần mức bảo vệ cao hơn."
+        ],
+        "scenario": "Danh sách chỉ có mã sinh viên và điểm vẫn có thể nhận diện khi ghép với danh sách lớp.",
+        "practice": "Phân loại dữ liệu trong một biểu mẫu đang sử dụng: cần thiết / không cần thiết / nhạy cảm."
+      },
+      {
+        "title": "Bốn câu hỏi trước khi thu thập",
+        "duration": 6,
+        "objective": "Áp dụng nguyên tắc tối thiểu và đúng mục đích.",
+        "points": [
+          "Thu để làm gì; căn cứ/quyền xử lý là gì; ai được xem; giữ trong bao lâu.",
+          "Không dùng dữ liệu đã thu cho mục đích mới nếu chưa đáp ứng điều kiện phù hợp.",
+          "Biểu mẫu phải thông báo rõ mục đích và tránh ô thông tin 'để dự phòng' không có nhu cầu thực tế."
+        ],
+        "scenario": "Khảo sát sự kiện yêu cầu số CCCD dù chỉ cần xác nhận số lượng người tham dự.",
+        "practice": "Xoá ít nhất một trường dữ liệu không cần thiết khỏi biểu mẫu mẫu của bạn."
+      },
+      {
+        "title": "Chia sẻ và phân quyền",
+        "duration": 6,
+        "objective": "Cấp quyền đúng người, đúng phạm vi và đúng thời gian.",
+        "points": [
+          "Ưu tiên tài khoản định danh thay vì liên kết công khai 'ai có link cũng xem được'.",
+          "Phân biệt quyền xem, nhận xét, chỉnh sửa và tải xuống; thu hồi khi công việc kết thúc.",
+          "Không gửi danh sách có dữ liệu cá nhân vào nhóm chat đông người nếu không thật sự cần."
+        ],
+        "scenario": "Một tệp danh sách sinh viên đặt quyền công khai để tiện gửi; đường dẫn sau đó được chuyển ra ngoài lớp.",
+        "practice": "Kiểm tra ba tệp gần nhất đã chia sẻ và thu hồi quyền không còn cần thiết."
+      },
+      {
+        "title": "Sự cố dữ liệu: khoanh vùng trước, báo cáo ngay",
+        "duration": 6,
+        "objective": "Giảm thiệt hại khi gửi nhầm, mất thiết bị hoặc lộ liên kết.",
+        "points": [
+          "Thu hồi liên kết/quyền, đổi thông tin xác thực và bảo toàn bằng chứng.",
+          "Ghi rõ loại dữ liệu, số người bị ảnh hưởng, thời điểm, người đã nhận và hành động đã làm.",
+          "Không tự ý xoá dấu vết hoặc giấu sự cố; báo cáo sớm giúp xử lý hiệu quả hơn."
+        ],
+        "scenario": "Email chứa bảng điểm được gửi nhầm ra ngoài đơn vị. Cần thu hồi nếu có thể, liên hệ người nhận, báo đầu mối và đánh giá phạm vi ảnh hưởng.",
+        "practice": "Lập thẻ ứng cứu 4 bước: dừng chia sẻ – giữ bằng chứng – báo đầu mối – phối hợp khắc phục."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15",
+        "url": "https://vanban.chinhphu.vn/?classid=1&docid=214590&pageid=27160&typegroup="
+      },
+      {
+        "title": "Nghị định 356/2025/NĐ-CP hướng dẫn Luật Bảo vệ dữ liệu cá nhân",
+        "url": "https://vanban.chinhphu.vn/?docid=216387&pageid=27160"
+      }
+    ]
+  },
+  {
+    "id": "digital-docs",
+    "title": "Hành chính số và văn bản điện tử",
+    "summary": "Chuẩn hoá hồ sơ, luân chuyển, ký số và lưu trữ để quy trình hành chính minh bạch, truy vết được.",
+    "duration": 30,
+    "level": "Nghiệp vụ",
+    "lessons": 4,
+    "audience": [
+      "cbvc"
+    ],
+    "category": "services",
+    "tone": "blue",
+    "icon": "file",
+    "label": "CBVC, NLĐ",
+    "outcomes": [
+      "Lập hồ sơ điện tử có cấu trúc",
+      "Phân biệt dự thảo, bản trình và bản phát hành",
+      "Thực hiện ký số đúng thẩm quyền",
+      "Theo dõi được tiến độ xử lý"
+    ],
+    "modules": [
+      {
+        "title": "Từ tệp rời sang hồ sơ điện tử",
+        "duration": 7,
+        "objective": "Tổ chức đầy đủ tài liệu của một công việc thành hồ sơ có thể tra cứu.",
+        "points": [
+          "Hồ sơ gồm văn bản đến/đề xuất, dự thảo, ý kiến xử lý, bản được duyệt, bản phát hành và tài liệu liên quan.",
+          "Tên tệp chỉ hỗ trợ nhận biết; giá trị quản lý còn nằm ở metadata, phiên bản, người xử lý và lịch sử thao tác.",
+          "Không lưu bản duy nhất trên máy cá nhân hoặc gửi qua nhiều nhóm chat gây thất lạc phiên bản."
+        ],
+        "scenario": "Một quyết định có năm tệp tên 'final', 'final2', 'mới nhất'. Không ai xác định chắc bản nào đã được duyệt.",
+        "practice": "Tạo cấu trúc hồ sơ mẫu theo mã công việc – năm – đơn vị – loại tài liệu."
+      },
+      {
+        "title": "Luồng xử lý và trách nhiệm",
+        "duration": 8,
+        "objective": "Thiết kế quy trình số có điểm giao việc, hạn xử lý và kết quả rõ ràng.",
+        "points": [
+          "Mỗi bước phải xác định người chủ trì, người phối hợp, thời hạn, dữ liệu đầu vào và sản phẩm đầu ra.",
+          "Phần mềm không thay thế quy định thẩm quyền; không tự thêm vòng phê duyệt chỉ vì hệ thống cho phép.",
+          "Trạng thái phải phản ánh thực tế: mới nhận, đang xử lý, chờ phối hợp, trình duyệt, hoàn thành."
+        ],
+        "scenario": "Một hồ sơ nằm ở trạng thái 'đang xử lý' nhiều ngày nhưng không có người chịu trách nhiệm chính hoặc hạn hoàn thành.",
+        "practice": "Vẽ lại một quy trình nội bộ tối đa 5 bước và gắn '6 rõ': người, việc, thời gian, trách nhiệm, sản phẩm, thẩm quyền."
+      },
+      {
+        "title": "Ký số đúng tài liệu, đúng thẩm quyền",
+        "duration": 7,
+        "objective": "Hiểu vai trò của chữ ký số trong quy trình phát hành.",
+        "points": [
+          "Kiểm tra nội dung, thể thức, người ký, thẩm quyền và phiên bản trước khi ký.",
+          "Không chia sẻ thiết bị/mã bảo vệ chữ ký số; không ký thay trên tài khoản của người khác.",
+          "Sau ký phải kiểm tra trạng thái chữ ký, tính toàn vẹn và bản phát hành trên hệ thống."
+        ],
+        "scenario": "Người ký số đúng tệp nhưng tệp đó là bản dự thảo cũ. Chữ ký hợp lệ về kỹ thuật không sửa được sai sót quy trình.",
+        "practice": "Dùng bảng kiểm trước ký gồm: đúng hồ sơ – đúng bản – đúng thẩm quyền – đúng nơi nhận – đúng thời hạn."
+      },
+      {
+        "title": "Lưu trữ, tra cứu và bàn giao",
+        "duration": 8,
+        "objective": "Kết thúc công việc mà dữ liệu vẫn tìm được và sử dụng đúng quyền.",
+        "points": [
+          "Khi hoàn thành, chốt hồ sơ, loại bản nháp không cần lưu và gắn thời hạn bảo quản theo quy định.",
+          "Bàn giao gồm dữ liệu, quyền quản trị, danh mục hồ sơ, tài khoản dùng chung và công việc chưa kết thúc.",
+          "Không tự ý sao chép kho hồ sơ sang thiết bị cá nhân để 'dự phòng'."
+        ],
+        "scenario": "Cán bộ chuyển công tác, tài liệu vẫn ở ổ đĩa cá nhân; đơn vị không truy cập được hồ sơ đã xử lý.",
+        "practice": "Lập danh mục bàn giao tối thiểu cho một vị trí công việc có sử dụng hệ thống số."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Luật Giao dịch điện tử 20/2023/QH15",
+        "url": "https://vanban.chinhphu.vn/?docid=208421&pageid=27160"
+      },
+      {
+        "title": "Nghị định 30/2020/NĐ-CP về công tác văn thư",
+        "url": "https://vanban.chinhphu.vn/default.aspx?docid=199378&pageid=27160"
+      }
+    ]
+  },
+  {
+    "id": "cloud-work",
+    "title": "Làm việc và cộng tác trên đám mây",
+    "summary": "Tổ chức tệp khoa học, chia sẻ đúng quyền và phối hợp hiệu quả trên tài liệu dùng chung.",
+    "duration": 22,
+    "level": "Thực hành",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "skills",
+    "tone": "teal",
+    "icon": "cloud",
+    "label": "Mọi thành viên",
+    "outcomes": [
+      "Đặt tên và tổ chức tệp nhất quán",
+      "Phân quyền cộng tác an toàn",
+      "Bàn giao không phụ thuộc tài khoản cá nhân"
+    ],
+    "modules": [
+      {
+        "title": "Cấu trúc thư mục theo công việc",
+        "duration": 5,
+        "objective": "Tìm được tài liệu mà không phụ thuộc trí nhớ của một người.",
+        "points": [
+          "Tổ chức theo năm – nhóm công việc – hồ sơ; tránh cấu trúc quá sâu.",
+          "Tên tệp nên có ngày hoặc mã hồ sơ, nội dung ngắn và trạng thái khi cần.",
+          "Không dùng 'mới', 'mới nhất', 'final cuối' làm cách quản lý phiên bản."
+        ],
+        "scenario": "Tổ công tác mất 30 phút tìm biên bản vì mỗi người lưu theo một cách khác nhau.",
+        "practice": "Đổi tên 5 tệp mẫu theo một quy tắc chung và viết quy tắc đó thành một dòng."
+      },
+      {
+        "title": "Quyền xem, nhận xét và chỉnh sửa",
+        "duration": 6,
+        "objective": "Cấp mức quyền thấp nhất đủ để hoàn thành nhiệm vụ.",
+        "points": [
+          "Người chỉ cần đọc không nên có quyền chỉnh sửa; người ngoài nhóm không nên dùng liên kết công khai.",
+          "Quyền cần gắn với vai trò/nhóm thay vì cấp rời rạc cho nhiều cá nhân khi có thể.",
+          "Định kỳ rà soát khách bên ngoài và tài khoản đã rời dự án."
+        ],
+        "scenario": "Tệp kế hoạch bị sửa nhầm vì toàn bộ người nhận đều có quyền chỉnh sửa.",
+        "practice": "Chọn một thư mục dùng chung và phân loại người dùng thành chủ sở hữu – biên tập – nhận xét – chỉ xem."
+      },
+      {
+        "title": "Phiên bản và cộng tác đồng thời",
+        "duration": 5,
+        "objective": "Giảm trùng lặp và khôi phục được thay đổi sai.",
+        "points": [
+          "Cùng biên tập trên một bản gốc thay vì gửi nhiều tệp đính kèm qua email.",
+          "Dùng nhận xét, giao việc và lịch sử phiên bản để giữ ngữ cảnh xử lý.",
+          "Chỉ xuất PDF khi cần bản đọc/phát hành; giữ bản nguồn ở kho được quản lý."
+        ],
+        "scenario": "Bốn người góp ý bốn tệp Word khác nhau, người tổng hợp bỏ sót ý kiến vì không có lịch sử chung.",
+        "practice": "Thử phục hồi một phiên bản cũ của tài liệu mẫu và xem ai đã thay đổi nội dung."
+      },
+      {
+        "title": "Bàn giao và sao lưu",
+        "duration": 6,
+        "objective": "Duy trì dữ liệu khi nhân sự hoặc công cụ thay đổi.",
+        "points": [
+          "Tài liệu công việc phải thuộc không gian do đơn vị quản lý, không chỉ nằm trong tài khoản cá nhân.",
+          "Phân biệt đồng bộ với sao lưu: đồng bộ có thể lan truyền thao tác xoá; sao lưu cho phép phục hồi độc lập.",
+          "Kiểm tra khả năng xuất dữ liệu và kế hoạch chuyển đổi trước khi phụ thuộc sâu vào một nền tảng."
+        ],
+        "scenario": "Chủ sở hữu thư mục tốt nghiệp hoặc nghỉ việc làm nhóm mất quyền truy cập học liệu.",
+        "practice": "Kiểm tra chủ sở hữu của thư mục quan trọng và chỉ định ít nhất một đầu mối quản trị dự phòng."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15",
+        "url": "https://vanban.chinhphu.vn/?classid=1&docid=214590&pageid=27160&typegroup="
+      },
+      {
+        "title": "Quyết định 131/QĐ-TTg – Chuyển đổi số GDĐT",
+        "url": "https://vanban.chinhphu.vn/default.aspx?docid=205236&pageid=27160"
+      }
+    ]
+  },
+  {
+    "id": "copyright",
+    "title": "Học liệu số, trích dẫn và bản quyền",
+    "summary": "Sử dụng hình ảnh, tài liệu và nội dung số có căn cứ; ghi nguồn và chia sẻ đúng phạm vi.",
+    "duration": 20,
+    "level": "Nền tảng",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "data",
+    "tone": "purple",
+    "icon": "book",
+    "label": "Giảng dạy & học tập",
+    "outcomes": [
+      "Phân biệt miễn phí với được phép sử dụng",
+      "Ghi nguồn đủ để truy lại",
+      "Chọn tài nguyên có giấy phép phù hợp"
+    ],
+    "modules": [
+      {
+        "title": "Có trên mạng không có nghĩa là được dùng tự do",
+        "duration": 5,
+        "objective": "Nhận biết quyền tác giả tồn tại ngay cả khi nội dung tải xuống miễn phí.",
+        "points": [
+          "Miễn phí truy cập khác với tự do sao chép, sửa đổi hoặc phát hành lại.",
+          "Cần xem tác giả, nguồn, điều khoản sử dụng và phạm vi được phép.",
+          "Mục đích giáo dục không tự động loại bỏ mọi nghĩa vụ về bản quyền."
+        ],
+        "scenario": "Giảng viên lấy toàn bộ sách điện tử thương mại đưa lên lớp học trực tuyến cho nhiều khoá.",
+        "practice": "Chọn một hình ảnh đang dùng và tìm trang nguồn cùng điều khoản sử dụng."
+      },
+      {
+        "title": "Trích dẫn để người khác kiểm chứng",
+        "duration": 5,
+        "objective": "Ghi nguồn đầy đủ và nhất quán.",
+        "points": [
+          "Tối thiểu cần tác giả/tổ chức, tên tài liệu, năm, nơi công bố và đường dẫn/ngày truy cập khi phù hợp.",
+          "Trích dẫn nguồn không biến một hành vi sử dụng không được phép thành hợp pháp; vẫn phải xem phạm vi quyền.",
+          "Nội dung do AI gợi ý vẫn cần kiểm tra nguồn gốc và không được tạo tài liệu tham khảo giả."
+        ],
+        "scenario": "Bài trình chiếu ghi 'Nguồn: Internet' nên người học không thể tìm lại tài liệu.",
+        "practice": "Sửa ba dòng nguồn chung chung thành trích dẫn có thể truy lại."
+      },
+      {
+        "title": "Giấy phép mở và học liệu mở",
+        "duration": 5,
+        "objective": "Chọn tài nguyên cho phép tái sử dụng phù hợp.",
+        "points": [
+          "Đọc điều kiện về ghi công, chia sẻ tương tự, không thương mại và không phái sinh.",
+          "Giữ thông tin giấy phép cùng tài nguyên khi tải về hoặc đưa vào kho học liệu.",
+          "Ưu tiên học liệu mở khi mục tiêu là dùng chung, cập nhật và mở rộng lâu dài."
+        ],
+        "scenario": "Đơn vị muốn chỉnh sửa một infographic nhưng giấy phép của tài nguyên không cho phép tạo bản phái sinh.",
+        "practice": "Tìm một tài nguyên có giấy phép mở và giải thích bằng một câu bạn được phép làm gì."
+      },
+      {
+        "title": "Chia sẻ học liệu trong hệ sinh thái HPU2",
+        "duration": 5,
+        "objective": "Quản lý bản gốc, bản phát hành và phạm vi truy cập.",
+        "points": [
+          "Giảng viên chịu trách nhiệm chuyên môn; đội kỹ thuật hỗ trợ chuẩn hoá, đóng gói và phát hành.",
+          "Mỗi học liệu cần metadata: tác giả, đơn vị, môn học, phiên bản, ngày cập nhật, quyền sử dụng.",
+          "Không nhân bản vô hạn cùng một video/tệp cho nhiều lớp; dùng kho dùng chung và liên kết có kiểm soát."
+        ],
+        "scenario": "Cùng một bài giảng được tải lên 20 khóa học; khi sửa sai phải thay thủ công ở 20 nơi.",
+        "practice": "Lập phiếu metadata 7 trường cho một bài giảng đang có."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Quyết định 131/QĐ-TTg – Chuyển đổi số GDĐT",
+        "url": "https://vanban.chinhphu.vn/default.aspx?docid=205236&pageid=27160"
+      },
+      {
+        "title": "Bộ GDĐT: ứng dụng AI trong giáo dục",
+        "url": "https://moet.gov.vn/chuyen-de-giao-duc-va-dao-tao/chuyen-doi-so-trong-gddt/day-manh-ung-dung-tri-tue-nhan-tao-trong-giao-duc-loi-ich-va-thach-thuc.html"
+      }
+    ]
+  },
+  {
+    "id": "data-quality",
+    "title": "Dữ liệu dùng chung và chất lượng dữ liệu",
+    "summary": "Chuẩn hoá nguồn dữ liệu, mã định danh và trách nhiệm cập nhật để báo cáo không còn lệch nhau.",
+    "duration": 24,
+    "level": "Thực hành",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "data",
+    "tone": "gold",
+    "icon": "data",
+    "label": "Quản trị dữ liệu",
+    "outcomes": [
+      "Nhận biết dữ liệu gốc/chủ/danh mục",
+      "Phát hiện lỗi chất lượng dữ liệu",
+      "Không tạo bảng Excel song song thiếu kiểm soát"
+    ],
+    "modules": [
+      {
+        "title": "Một dữ liệu – một nguồn chịu trách nhiệm",
+        "duration": 6,
+        "objective": "Hiểu vai trò của nguồn dữ liệu gốc và đơn vị chủ quản.",
+        "points": [
+          "Dữ liệu gốc được tạo tại nghiệp vụ phát sinh; dữ liệu chủ mô tả các đối tượng cốt lõi như người học, viên chức, đơn vị, chương trình.",
+          "Danh mục dùng chung giúp các hệ thống dùng cùng mã và cùng ý nghĩa.",
+          "Sao chép dữ liệu sang bảng riêng làm mất đồng bộ nếu không có quy trình cập nhật."
+        ],
+        "scenario": "Tên đơn vị trong hệ thống nhân sự, đào tạo và tài chính được viết ba cách khác nhau nên báo cáo tổng hợp bị tách dòng.",
+        "practice": "Chọn một trường dữ liệu và xác định: ai tạo, ai sửa, hệ thống nào là nguồn chính thức."
+      },
+      {
+        "title": "Sáu chiều chất lượng dữ liệu",
+        "duration": 6,
+        "objective": "Đánh giá dữ liệu trước khi dùng cho báo cáo hoặc AI.",
+        "points": [
+          "Đúng, đủ, nhất quán, kịp thời, duy nhất và hợp lệ theo quy tắc.",
+          "Dữ liệu sạch không chỉ là sửa lỗi chính tả; cần kiểm tra quan hệ và ngữ cảnh nghiệp vụ.",
+          "Chỉ số chất lượng phải đo được, ví dụ tỷ lệ thiếu mã ngành hoặc hồ sơ trùng."
+        ],
+        "scenario": "Hai sinh viên dùng chung số CCCD do lỗi nhập liệu; hệ thống vẫn lưu được nhưng dữ liệu không duy nhất.",
+        "practice": "Tạo ba quy tắc kiểm tra tự động cho một danh sách sinh viên mẫu."
+      },
+      {
+        "title": "Mã định danh và liên thông",
+        "duration": 6,
+        "objective": "Dùng mã ổn định thay cho ghép nối bằng tên.",
+        "points": [
+          "Tên có thể đổi hoặc trùng; mã định danh phải ổn định, duy nhất và có quy tắc quản lý.",
+          "API chỉ liên thông hiệu quả khi hai bên thống nhất cấu trúc, mã, ý nghĩa và quyền truy cập.",
+          "Không dùng số điện thoại hay email cá nhân làm mã định danh lâu dài nếu có mã nghiệp vụ phù hợp hơn."
+        ],
+        "scenario": "Ghép danh sách theo họ tên làm gộp nhầm hai người trùng tên và bỏ sót người viết khác dấu.",
+        "practice": "Kiểm tra một bảng dữ liệu đang ghép theo tên và đề xuất khóa định danh thay thế."
+      },
+      {
+        "title": "Dữ liệu cho báo cáo và AI",
+        "duration": 6,
+        "objective": "Đánh giá khả năng sử dụng dữ liệu trước khi phân tích.",
+        "points": [
+          "Xác định mục đích, phạm vi thời gian, định nghĩa chỉ tiêu và phiên bản dữ liệu.",
+          "Ẩn danh hoặc giả danh khi phân tích không cần nhận diện cá nhân.",
+          "Kết quả AI không thể đáng tin nếu dữ liệu đầu vào thiếu, thiên lệch hoặc không có nguồn gốc."
+        ],
+        "scenario": "Mô hình dự báo nguy cơ bỏ học dùng dữ liệu cũ và thiếu giải thích, có thể gắn nhãn sai cho sinh viên.",
+        "practice": "Viết 'thẻ dữ liệu' gồm nguồn, chủ sở hữu, thời gian, giới hạn và người được phép sử dụng."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nghị quyết 57-NQ/TW",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-quoc-gia-119241224180048642.htm"
+      },
+      {
+        "title": "Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15",
+        "url": "https://vanban.chinhphu.vn/?classid=1&docid=214590&pageid=27160&typegroup="
+      },
+      {
+        "title": "Quyết định 131/QĐ-TTg – Chuyển đổi số GDĐT",
+        "url": "https://vanban.chinhphu.vn/default.aspx?docid=205236&pageid=27160"
+      }
+    ]
+  },
+  {
+    "id": "hpc-ai",
+    "title": "AI, GPU và siêu máy tính cho đại học",
+    "summary": "Hiểu đúng hạ tầng tính toán hiệu năng cao, lựa chọn đầu tư theo nhu cầu và vận hành an toàn.",
+    "duration": 28,
+    "level": "Nâng cao",
+    "lessons": 4,
+    "audience": [
+      "cbvc",
+      "student"
+    ],
+    "category": "ai",
+    "tone": "red",
+    "icon": "ai",
+    "label": "Hạ tầng chiến lược",
+    "outcomes": [
+      "Phân biệt máy chủ GPU, cụm HPC và dịch vụ đám mây",
+      "Ước lượng nhu cầu trước khi đầu tư",
+      "Nhận biết yêu cầu dữ liệu, điện, làm mát và nhân lực vận hành"
+    ],
+    "modules": [
+      {
+        "title": "Siêu máy tính là hệ thống, không phải một máy rất mạnh",
+        "duration": 7,
+        "objective": "Hiểu các thành phần của hạ tầng tính toán hiệu năng cao.",
+        "points": [
+          "HPC kết hợp nhiều nút tính toán, mạng tốc độ cao, lưu trữ song song, bộ lập lịch và phần mềm quản trị.",
+          "GPU phù hợp nhiều bài toán AI và tính toán song song; CPU vẫn quan trọng cho tiền xử lý, điều phối và bài toán tuần tự.",
+          "Hiệu năng thực phụ thuộc dữ liệu, thuật toán và khả năng song song, không chỉ số lượng GPU."
+        ],
+        "scenario": "Mua một máy nhiều GPU nhưng lưu trữ chậm, mạng yếu và không có bộ lập lịch sẽ tạo điểm nghẽn và tranh chấp tài nguyên.",
+        "practice": "Vẽ sơ đồ 5 khối: người dùng – hàng đợi – CPU/GPU – lưu trữ – giám sát."
+      },
+      {
+        "title": "Huấn luyện, tinh chỉnh và suy luận",
+        "duration": 7,
+        "objective": "Chọn mức tài nguyên phù hợp từng loại công việc AI.",
+        "points": [
+          "Huấn luyện mô hình từ đầu cần dữ liệu và năng lực tính toán rất lớn; ít trường cần tự làm ở quy mô lớn.",
+          "Tinh chỉnh mô hình nhỏ hoặc dùng kỹ thuật tiết kiệm tham số phù hợp hơn cho bài toán chuyên ngành.",
+          "Suy luận phục vụ người dùng cần tối ưu độ trễ, số phiên đồng thời, chi phí và bảo vệ dữ liệu."
+        ],
+        "scenario": "Nhu cầu thực chỉ là trợ lý hỏi đáp tài liệu HPU2 nhưng đề xuất lại mua hạ tầng để huấn luyện mô hình nền tảng từ đầu.",
+        "practice": "Phân loại một đề bài AI của đơn vị vào: dùng API – chạy mô hình sẵn – tinh chỉnh – huấn luyện mới; nêu lý do."
+      },
+      {
+        "title": "Mô hình đầu tư ba tầng cho HPU2",
+        "duration": 7,
+        "objective": "Lựa chọn hạ tầng theo giai đoạn, tránh đầu tư vượt nhu cầu.",
+        "points": [
+          "Tầng 1: máy trạm/phòng thí nghiệm cho học tập và thử nghiệm; tầng 2: máy chủ GPU dùng chung cho nghiên cứu và dịch vụ nội bộ.",
+          "Tầng 3: thuê đám mây hoặc hợp tác trung tâm HPC khi có đợt tải lớn, mô hình lớn hoặc yêu cầu chuyên sâu.",
+          "Quyết định đầu tư phải dựa trên số nhóm dùng, loại mô hình, dữ liệu, giờ GPU, SLA và tổng chi phí 3–5 năm."
+        ],
+        "scenario": "Thiết bị có công suất cao nhưng ít bài toán, thiếu người vận hành và nhanh lạc hậu sẽ có tỷ lệ sử dụng thấp.",
+        "practice": "Lập bảng nhu cầu gồm nhóm người dùng, bài toán, dữ liệu, GPU-giờ/tháng, thời điểm cao tải và mức bảo mật."
+      },
+      {
+        "title": "Vận hành an toàn và bền vững",
+        "duration": 7,
+        "objective": "Nhận biết điều kiện bắt buộc ngoài cấu hình phần cứng.",
+        "points": [
+          "Cần điện, UPS, làm mát, PCCC, mạng, lưu trữ, sao lưu, giám sát và kế hoạch bảo trì phù hợp.",
+          "Dùng bộ lập lịch, hạn ngạch và nhật ký để chia sẻ công bằng; không cho người dùng tự chiếm toàn bộ GPU.",
+          "Dữ liệu nghiên cứu và dữ liệu cá nhân phải được phân vùng, mã hoá, kiểm soát truy cập và có quy trình xoá."
+        ],
+        "scenario": "Máy GPU đặt trong phòng thông thường quá nóng, tiêu thụ điện cao và dừng đột ngột; rủi ro không nằm ở GPU mà ở hạ tầng phụ trợ.",
+        "practice": "Dùng bảng kiểm 8 điều kiện vận hành để đánh giá một đề xuất máy chủ AI."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nghị quyết 57-NQ/TW",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-quoc-gia-119241224180048642.htm"
+      },
+      {
+        "title": "Quyết định 131/QĐ-TTg – Chuyển đổi số GDĐT",
+        "url": "https://vanban.chinhphu.vn/default.aspx?docid=205236&pageid=27160"
+      },
+      {
+        "title": "Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15",
+        "url": "https://vanban.chinhphu.vn/?classid=1&docid=214590&pageid=27160&typegroup="
+      }
+    ]
+  },
+  {
+    "id": "gemini-admin",
+    "title": "Ứng dụng Gemini trong công tác hành chính",
+    "summary": "Dùng Gemini để hỗ trợ dự thảo, tóm tắt, đối chiếu và giao việc; kiểm soát đầu ra theo Nghị định 30/2020/NĐ-CP.",
+    "duration": 35,
+    "level": "Nghiệp vụ",
+    "lessons": 5,
+    "audience": [
+      "cbvc"
+    ],
+    "category": "ai",
+    "tone": "purple",
+    "icon": "ai",
+    "label": "CBVC, người lao động",
+    "outcomes": [
+      "Viết prompt hành chính theo bốn thành phần",
+      "Soạn dự thảo có kiểm soát theo Nghị định 30",
+      "Tóm tắt và giao việc từ văn bản",
+      "Bảo vệ dữ liệu và kiểm tra đầu ra trước phát hành"
+    ],
+    "modules": [
+      {
+        "title": "Khi nào nên và không nên dùng Gemini",
+        "duration": 6,
+        "objective": "Chọn đúng việc, đúng tài khoản và đúng loại dữ liệu trước khi dùng AI.",
+        "points": [
+          "Nên dùng để gợi ý cấu trúc, rút gọn câu, tóm tắt tài liệu được phép sử dụng, lập bảng công việc và đối chiếu phiên bản.",
+          "Chỉ dùng tài khoản và tính năng đã được đơn vị cho phép; Gemini chỉ truy cập được nội dung mà tài khoản người dùng có quyền, vì vậy vẫn phải rà soát quyền chia sẻ.",
+          "Không nhập bí mật nhà nước, dữ liệu nội bộ hạn chế, mật khẩu, mã OTP, hồ sơ cá nhân hoặc dữ liệu nhạy cảm khi chưa có căn cứ và biện pháp bảo vệ phù hợp."
+        ],
+        "scenario": "Một chuyên viên định tải danh sách viên chức có số điện thoại và hồ sơ sức khỏe lên tài khoản AI cá nhân để nhờ phân loại. Cách làm này không phù hợp vì dữ liệu vượt quá nhu cầu và chưa được phê duyệt.",
+        "practice": "Phân loại 5 tài liệu đang xử lý thành: có thể dùng – phải ẩn danh – không được đưa vào Gemini; ghi lý do cho từng tài liệu."
+      },
+      {
+        "title": "Công thức prompt hành chính bốn thành phần",
+        "duration": 7,
+        "objective": "Tạo yêu cầu rõ vai trò, nhiệm vụ, bối cảnh và định dạng đầu ra.",
+        "points": [
+          "Vai trò: nêu Gemini đang hỗ trợ ai, trong nghiệp vụ nào; nhiệm vụ: dùng động từ cụ thể như tóm tắt, so sánh, lập bảng hoặc biên tập.",
+          "Bối cảnh: cung cấp mục đích, đối tượng nhận, căn cứ trích dẫn và giới hạn; không yêu cầu AI tự bịa số hiệu, số liệu hoặc quy định.",
+          "Định dạng: quy định độ dài, giọng văn, bảng biểu, tiêu chí và phần cần đánh dấu để con người xác minh."
+        ],
+        "scenario": "Yêu cầu 'soạn giúp tôi một công văn' quá chung nên Gemini tự giả định cơ quan, căn cứ và người ký. Prompt tốt phải cung cấp dữ liệu thật hoặc để chỗ trống [CẦN BỔ SUNG].",
+        "practice": "Viết prompt: 'Bạn là trợ lý hành chính; dựa duy nhất vào nội dung tôi cung cấp; lập dự thảo thông báo 300 từ; đánh dấu [CẦN XÁC MINH] cho dữ kiện thiếu; không tự tạo căn cứ pháp lý'."
+      },
+      {
+        "title": "Soạn dự thảo theo Nghị định 30/2020/NĐ-CP",
+        "duration": 8,
+        "objective": "Dùng Gemini hỗ trợ nội dung nhưng không giao cho AI quyết định thẩm quyền và thể thức.",
+        "points": [
+          "Nghị định 30/2020/NĐ-CP điều chỉnh công tác văn thư, gồm soạn thảo, ký ban hành, quản lý văn bản, lập hồ sơ và nộp lưu.",
+          "Khi lập dự thảo, kiểm tra các thành phần phù hợp: quốc hiệu – tiêu ngữ; tên cơ quan; số, ký hiệu; địa danh, thời gian; tên loại, trích yếu; nội dung; chức vụ, họ tên, chữ ký; dấu hoặc chữ ký số; nơi nhận và phụ lục nếu có.",
+          "Gemini không xác định thay cơ quan về thẩm quyền, căn cứ pháp lý, độ mật, độ khẩn, người ký hoặc phiên bản phát hành; các mục này phải do người có trách nhiệm xác minh."
+        ],
+        "scenario": "Gemini tạo một 'quyết định' trình bày đẹp nhưng viện dẫn văn bản đã hết hiệu lực và đề xuất sai người ký. Dự thảo chưa thể trình nếu chưa đối chiếu hồ sơ và quy định hiện hành.",
+        "practice": "Dùng một văn bản mẫu đã ẩn dữ liệu để yêu cầu Gemini lập bảng hai cột: thành phần thể thức – thông tin cần kiểm tra; sau đó tự đối chiếu với mẫu chính thức của đơn vị."
+      },
+      {
+        "title": "Tóm tắt, đối chiếu và giao việc",
+        "duration": 7,
+        "objective": "Biến văn bản dài thành đầu việc có thể kiểm soát mà không làm sai nghĩa.",
+        "points": [
+          "Yêu cầu tóm tắt theo cấu trúc: mục tiêu, phạm vi, mốc thời gian, đơn vị chủ trì, đơn vị phối hợp, sản phẩm và rủi ro.",
+          "Khi so sánh hai dự thảo, buộc AI trích vị trí thay đổi và không suy đoán lý do; người dùng kiểm tra lại từng trích dẫn với bản gốc.",
+          "Bảng giao việc nên thể hiện '6 rõ': người, việc, thời gian, trách nhiệm, sản phẩm và thẩm quyền; mọi hạn và tên đơn vị phải được xác nhận."
+        ],
+        "scenario": "AI tóm tắt 'trước ngày 15' thành 'trong ngày 15', làm thay đổi thời hạn thực hiện. Tóm tắt chỉ là bản hỗ trợ, không thay thế văn bản nguồn.",
+        "practice": "Từ một kế hoạch công khai, tạo bảng giao việc 7 cột: số thứ tự – nhiệm vụ – chủ trì – phối hợp – hạn – sản phẩm – căn cứ đoạn; kiểm tra từng hàng với bản gốc."
+      },
+      {
+        "title": "Kiểm soát đầu ra trước khi trình ký",
+        "duration": 7,
+        "objective": "Thực hiện hai vòng kiểm tra để tránh phát hành nội dung AI sai hoặc lộ dữ liệu.",
+        "points": [
+          "Vòng 1 – nghiệp vụ: kiểm tra mục đích, thẩm quyền, căn cứ, số liệu, tên riêng, thời hạn, đối tượng, độ mật và trách nhiệm thực hiện.",
+          "Vòng 2 – văn thư: kiểm tra thể thức, kỹ thuật trình bày, số/ký hiệu, nơi nhận, phiên bản, chữ ký, dấu hoặc chữ ký số và hồ sơ lưu.",
+          "Không sao chép – phát hành trực tiếp từ Gemini; phải có người soạn, người kiểm tra và người có thẩm quyền chịu trách nhiệm về văn bản cuối cùng."
+        ],
+        "scenario": "Một thông báo do AI tạo dùng sai tên đơn vị và để sót ghi chú nội bộ trong bản PDF. Hai vòng kiểm tra độc lập có thể ngăn lỗi trước khi phát hành.",
+        "practice": "Tạo checklist 12 mục trước trình ký và thử rà một dự thảo: đánh dấu đạt – chưa đạt – người xác minh – bằng chứng đối chiếu."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nghị định 30/2020/NĐ-CP về công tác văn thư",
+        "url": "https://vanban.chinhphu.vn/default.aspx?docid=199378&pageid=27160"
+      },
+      {
+        "title": "Google Workspace: Hướng dẫn viết prompt cho Gemini",
+        "url": "https://workspace.google.com/learning/content/gemini-prompt-guide"
+      },
+      {
+        "title": "Google Workspace: Quyền riêng tư và AI tạo sinh",
+        "url": "https://knowledge.workspace.google.com/admin/generative-ai/generative-ai-in-google-workspace-privacy-hub"
+      },
+      {
+        "title": "Google Workspace: Prompt guide cho khu vực công",
+        "url": "https://workspace.google.com/learning/content/gps-prompt"
+      }
+    ]
+  }
+]

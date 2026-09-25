@@ -1,0 +1,64 @@
+{
+  "domains": [
+    {"code":"M1","title":"Khai thác dữ liệu và thông tin","description":"Tìm kiếm, đánh giá, tổ chức và sử dụng dữ liệu, thông tin và nội dung số."},
+    {"code":"M2","title":"Giao tiếp và hợp tác trong môi trường số","description":"Tương tác, chia sẻ, cộng tác và quản lý danh tính số có trách nhiệm."},
+    {"code":"M3","title":"Sáng tạo nội dung số","description":"Tạo lập, chỉnh sửa, tích hợp nội dung số; tôn trọng bản quyền và giấy phép."},
+    {"code":"M4","title":"An toàn","description":"Bảo vệ thiết bị, dữ liệu, quyền riêng tư, sức khỏe và môi trường số."},
+    {"code":"M5","title":"Giải quyết vấn đề","description":"Nhận diện nhu cầu, lựa chọn công cụ và sử dụng công nghệ để giải quyết vấn đề."},
+    {"code":"M6","title":"Ứng dụng trí tuệ nhân tạo","description":"Hiểu, sử dụng và đánh giá AI minh bạch, công bằng, có đạo đức và trách nhiệm."}
+  ],
+  "paths": [
+    {
+      "slug":"hoc-sinh-pho-thong","title":"Học sinh THCS và THPT","audience":"Học sinh phổ thông","level":"Cơ bản","summary":"Hình thành năng lực số an toàn, tự chủ và có trách nhiệm; phù hợp hoạt động trải nghiệm, giáo dục AI và phổ cập cộng đồng.",
+      "basis":"Thông tư 02/2025/TT-BGDĐT; Khung nội dung thí điểm giáo dục AI cho học sinh phổ thông.",
+      "courses":["digital-foundation","account-safety","anti-scam","personal-data","copyright","responsible-ai"]
+    },
+    {
+      "slug":"sinh-vien-hpu2","title":"Sinh viên HPU2","audience":"Sinh viên","level":"Cơ bản đến nâng cao","summary":"Lộ trình năng lực số phục vụ học tập, nghiên cứu, thực tập và thích ứng nghề nghiệp.",
+      "basis":"Thông tư 02/2025/TT-BGDĐT; Kế hoạch Bình dân học vụ số HPU2.",
+      "courses":["digital-foundation","account-safety","anti-scam","hpu2-services","personal-data","cloud-work","copyright","responsible-ai","data-quality"]
+    },
+    {
+      "slug":"sinh-vien-su-pham-mentor","title":"Sinh viên sư phạm và mentor","audience":"Sinh viên sư phạm, lực lượng hỗ trợ cộng đồng","level":"Nâng cao","summary":"Phát triển năng lực hướng dẫn người học và cộng đồng sử dụng công nghệ số an toàn, hiệu quả.",
+      "basis":"Thông tư 02/2025/TT-BGDĐT; Kế hoạch Bình dân học vụ số HPU2.",
+      "courses":["digital-foundation","anti-scam","personal-data","copyright","responsible-ai","cloud-work","data-quality"]
+    },
+    {
+      "slug":"giang-vien-can-bo-quan-ly","title":"Giảng viên và cán bộ quản lý giáo dục","audience":"Giảng viên, CBQL","level":"Nâng cao","summary":"Ứng dụng công nghệ, dữ liệu và AI trong tổ chức dạy học, đánh giá và quản trị giáo dục.",
+      "basis":"Thông tư 18/2026/TT-BGDĐT; Thông tư 02/2025/TT-BGDĐT.",
+      "courses":["account-safety","personal-data","cloud-work","copyright","responsible-ai","data-quality","gemini-admin"]
+    },
+    {
+      "slug":"can-bo-vien-chuc-hanh-chinh","title":"Cán bộ, viên chức hành chính","audience":"CBVC, người lao động","level":"Nghiệp vụ","summary":"Thực hiện công việc hành chính số, quản trị dữ liệu và sử dụng AI đúng thẩm quyền, đúng quy trình.",
+      "basis":"Nghị định 30/2020/NĐ-CP; Luật 91/2025/QH15; Nghị định 356/2025/NĐ-CP.",
+      "courses":["account-safety","anti-scam","personal-data","digital-docs","cloud-work","data-quality","gemini-admin"]
+    },
+    {
+      "slug":"cong-nghe-chuyen-sau","title":"Công nghệ và dữ liệu chuyên sâu","audience":"Cán bộ CNTT, nhóm kỹ thuật, người học có nhu cầu","level":"Chuyên sâu","summary":"Nâng cao nhận thức về dữ liệu dùng chung, hạ tầng AI, GPU và năng lực tính toán phục vụ đại học số.",
+      "basis":"Nghị quyết 57-NQ/TW; Quyết định 131/QĐ-TTg; quy định về dữ liệu và bảo vệ dữ liệu cá nhân.",
+      "courses":["data-quality","hpc-ai","personal-data","account-safety"]
+    }
+  ],
+  "course_domains": {
+    "digital-foundation":["M1","M2","M4","M5"],
+    "account-safety":["M4","M5"],
+    "anti-scam":["M1","M4","M5"],
+    "hpu2-services":["M1","M2","M5"],
+    "responsible-ai":["M1","M3","M4","M5","M6"],
+    "personal-data":["M4"],
+    "digital-docs":["M2","M3","M4","M5"],
+    "cloud-work":["M1","M2","M3","M4"],
+    "copyright":["M1","M3","M4","M5","M6"],
+    "data-quality":["M1","M4","M5"],
+    "hpc-ai":["M5","M6"],
+    "gemini-admin":["M1","M3","M4","M5","M6"]
+  },
+  "diagnostic": [
+    {"domain":"M1","question":"Khi nhận một thông tin quan trọng trên mạng, bạn thường làm gì?","options":[["Chia sẻ ngay nếu nội dung hợp lý",0],["Đối chiếu tác giả, thời điểm và ít nhất một nguồn tin cậy",2],["Chỉ xem số lượt thích",0]]},
+    {"domain":"M2","question":"Khi làm việc nhóm trực tuyến, lựa chọn phù hợp nhất là gì?","options":[["Dùng một tài khoản chung",0],["Phân quyền theo vai trò và ghi nhận phiên bản",2],["Công khai liên kết để mọi người tiện sửa",0]]},
+    {"domain":"M3","question":"Khi sử dụng hình ảnh trên Internet trong bài học, bạn nên làm gì?","options":[["Dùng tự do vì phục vụ giáo dục",0],["Kiểm tra giấy phép, trích dẫn nguồn và phạm vi sử dụng",2],["Xóa tên tác giả để bài trình bày gọn hơn",0]]},
+    {"domain":"M4","question":"Khi tài khoản xuất hiện đăng nhập lạ, hành động ưu tiên là gì?","options":[["Chờ xem có thiệt hại không",0],["Đổi mật khẩu, đăng xuất phiên lạ, bật MFA và báo đầu mối",2],["Đăng công khai ảnh chụp thông tin tài khoản",0]]},
+    {"domain":"M5","question":"Trước khi chọn một công cụ số cho công việc, bạn cần làm gì?","options":[["Chọn công cụ đang phổ biến nhất",0],["Xác định yêu cầu, dữ liệu, rủi ro và tiêu chí kiểm tra kết quả",2],["Dùng thử bằng dữ liệu thật của đơn vị",0]]},
+    {"domain":"M6","question":"Khi dùng AI tạo sinh để hỗ trợ công việc, trách nhiệm thuộc về ai?","options":[["Nhà cung cấp AI",0],["Người sử dụng và người có thẩm quyền phê duyệt kết quả",2],["Không ai nếu đã ghi chú dùng AI",0]]}
+  ]
+}
