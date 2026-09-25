@@ -85,7 +85,8 @@ function csrf_token(): string {
 }
 function csrf_field(): string { return '<input type="hidden" name="csrf" value="' . e(csrf_token()) . '">'; }
 function require_csrf(): void {
-    if (!hash_equals($_SESSION['csrf'] ?? '', (string) ($_POST['csrf'] ?? ''))) {
+    $expected = (string) ($_SESSION['csrf'] ?? '');
+    if ($expected === '' || !hash_equals($expected, (string) ($_POST['csrf'] ?? ''))) {
         http_response_code(419); exit('Phiên làm việc đã hết hạn. Vui lòng quay lại và thử lại.');
     }
 }
@@ -116,7 +117,7 @@ function csv_safe($value): string { $v=(string)$value; return preg_match('/^[=+\
 function video_embed_url(?string $url): ?string {
     $url=trim((string)$url); if($url==='')return null;
     if(preg_match('~(?:youtube\.com/watch\?v=|youtu\.be/)([A-Za-z0-9_-]{6,})~',$url,$m))return 'https://www.youtube-nocookie.com/embed/'.$m[1].'?rel=0';
-    if(preg_match('~^https://www\.youtube-nocookie\.com/embed/[A-Za-z0-9_-]+~',$url))return $url;
+    if(preg_match('~^https://www\.youtube-nocookie\.com/embed/([A-Za-z0-9_-]+)~',$url,$m))return 'https://www.youtube-nocookie.com/embed/'.$m[1].'?rel=0';
     return null;
 }
 
